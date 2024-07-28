@@ -1,0 +1,6 @@
+word
+second
+third
+another
+more
+banana
